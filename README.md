@@ -1,6 +1,7 @@
 # Mobile Terminal
 
 A mobile-friendly web app for remotely accessing your VS Code terminal from your phone.
+![A11104E1-250F-47AA-9CB6-02215B9E7A2B_1_105_c](https://github.com/user-attachments/assets/8c459623-51f4-440f-8a59-d5854761fcab)
 
 ## Features
 
